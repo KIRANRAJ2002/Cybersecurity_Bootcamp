@@ -1,0 +1,8 @@
+Enter the city name: Kozhikode
+-------------------------------------------------------------
+Weather Stats for - KOZHIKODE  || 23 Jun 2021 | 11:17:38 AM
+-------------------------------------------------------------
+Current temperature is: 30.65 deg C
+Current weather desc  : overcast clouds
+Current Humidity      : 76 %
+Current wind speed    : 5.42 kmph
